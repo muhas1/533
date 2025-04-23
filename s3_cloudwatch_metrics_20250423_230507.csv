@@ -1,0 +1,4 @@
+storage_class,bucket_name,bucket_size_bytes,num_objects,first_byte_latency_ms,total_request_latency_ms,get_requests,put_requests,time_period_start,time_period_end,storage_cost_usd,put_cost_usd,get_cost_usd,monitoring_cost_usd,total_cost_usd
+STANDARD,group15-s3test-1745443091-standard,0,0,0,0,0,0,2025-04-22T23:04:59.177644,2025-04-23T23:04:59.177653,0.0,0.0,0.0,0.0,0.0
+INTELLIGENT_TIERING,group15-s3test-1745443091-intelligent-tiering,0,0,0,0,0,0,2025-04-22T23:04:59.177644,2025-04-23T23:04:59.177653,0.0,0.0,0.0,0.0,0.0
+GLACIER_IR,group15-s3test-1745443091-glacier-ir,0,0,0,0,0,0,2025-04-22T23:04:59.177644,2025-04-23T23:04:59.177653,0.0,0.0,0.0,0.0,0.0
